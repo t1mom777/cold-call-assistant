@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Cold Call Assistant Application</title>
-</head>
 <body>
 	<h1>Cold Call Assistant Application</h1>
 	
@@ -56,4 +51,5 @@
 	</ol>
 
 	<h2>License</h2>
-	<p>This project is licensed under the GNU General Public License version 3 (GPL-3.0), which is a free and open-source software license that allows people to use, copy, modify, and distribute the code for any purpose, as long as they include the original copyright notice and disclaimer, and any modifications made to the code are also released under the GPL-3.0. The GPL-3.0 ensures that the code remains free and open-source, and that any improvements or modifications made to the code are also shared with the community.</p>
+	<p>This project is licensed under the GNU General Public License version 3 (GPL-3.0), which is a free and open-source software license that allows people to use, copy, modify, and distribute the code for any purpose, as long as they include the original copyright notice and disclaimer, and any modifications made to the code are also released under the GPL-3.0. The GPL-3.0 ensures that the code remains free and open-source, and that any improvements or modifications made to the code are also shared with the community.</p> 
+</body>
