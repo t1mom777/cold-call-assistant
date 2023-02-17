@@ -1,4 +1,4 @@
-Cold Call Assistant
+<br>Cold Call Assistant</br>
 The Cold Call Assistant is an open-source project designed to streamline the process of making cold calls to potential leads. By integrating with Twilio API, OpenAI's GPT-3 API, Whisper API, and Google Text-to-Speech API, this application enables users to initiate a call, receive information from the lead, generate pre-loaded prompts using natural language processing, and generate replies using text-to-speech technology.
 
 This project is built using the Frappe Framework, which provides a user-friendly interface for importing lead information, initiating calls, and displaying results. The application is customizable and can be configured to suit the needs of individual users, making it a useful tool for sales teams and individuals looking to increase their productivity and efficiency.
